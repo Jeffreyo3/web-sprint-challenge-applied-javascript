@@ -14,10 +14,11 @@ import Axios from "axios";
 function Tab(topicString) {
   // 1 Create new elements
   const div = document.createElement("div");
+  
   // 2 Define/Create structure
   // only creating one element
 
-  // 3 Set content (refer array)
+  // 3 Set content (refer args)
   div.textContent = topicString;
 
   // 4 Apply Style (refer css)

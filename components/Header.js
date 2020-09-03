@@ -12,7 +12,6 @@
 // and append it to the DOM inside the div.header-container
 
 const header = document.querySelector("div.header-container");
-console.log(header);
 
 function Header() {
   // 1 Create new elements
@@ -26,7 +25,7 @@ function Header() {
   div.appendChild(h1);
   div.appendChild(tempSpan);
 
-  // 3 Set content (refer array)
+  // 3 Set content (refer args)
   dateSpan.textContent = "MARCH 28, 2020";
   h1.textContent = "Lambda Times";
   tempSpan.textContent = "98°";

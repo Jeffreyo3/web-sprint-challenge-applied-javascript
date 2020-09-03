@@ -25,6 +25,6 @@
 
 // 1 Create new elements
 // 2 Define/Create structure
-// 3 Set content (refer array)
+// 3 Set content (refer args)
 // 4 Apply Style (refer css)
 // 5 Return component element

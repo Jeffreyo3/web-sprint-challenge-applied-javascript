@@ -20,3 +20,10 @@
 // Add a listener for click events so that when a user clicks on a card, the headline of the article is logged to the console.
 //
 // Use your function to create a card for each of the articles, and append each card to the DOM.
+
+
+// 1 Create new elements
+// 2 Define/Create structure
+// 3 Set content (refer array)
+// 4 Apply Style (refer css)
+// 5 Return component element

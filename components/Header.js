@@ -36,6 +36,7 @@ function Header() {
   dateSpan.classList.add("date");
   tempSpan.classList.add("temp");
 
+  // 5 Return component element
   return div;
 }
 
